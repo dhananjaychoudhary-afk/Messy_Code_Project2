@@ -176,6 +176,7 @@ This project helped practice:
 See [`AUDIT.md`](AUDIT.md) for the detailed code audit, including functional findings, potential issues, recommendations, and audit limitations.
 
 ## 👩‍💻 Author
+**Dhananjay Choudhary**
 
 Created as a Python programming practice project.
 
